@@ -1,6 +1,6 @@
 {
   "name": "ip-anchor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A tool to configure domain and IP for local development",
   "main": "index.js",
   "bin": {
