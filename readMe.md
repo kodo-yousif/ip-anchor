@@ -14,22 +14,16 @@ Ip-Anchor is a Node.js tool designed for developers to easily configure their lo
 ## Prerequisites
 
 - Node.js: Make sure you have Node.js installed on your machine.
-- npm or yarn: Required for installing the tool globally.
+- npm: Required for installing the tool globally.
 
 ## Installation
 
-You can install Ip-Anchor globally using npm or yarn. This allows you to use it from anywhere in your terminal.
+You can install Ip-Anchor globally using npm. This allows you to use it from anywhere in your terminal.
 
 ### Using npm:
 
 ```bash
 npm install -g ip-anchor
-```
-
-### Using yarn:
-
-```bash
-yarn global add ip-anchor
 ```
 
 ## Usage
@@ -100,7 +94,7 @@ Remember to replace `'mycustomdomain.com'` with the actual domain you configured
 If you encounter any issues while using Ip-Anchor, please ensure that:
 
 - You have the necessary permissions to modify system files.
-- Your Node.js and npm/yarn versions are up to date.
+- Your Node.js and npm versions are up to date.
 - You have correctly entered the IP address and domain name.
 
 ## Contributing
