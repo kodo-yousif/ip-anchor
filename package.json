@@ -1,0 +1,17 @@
+{
+  "name": "ip-anchor",
+  "version": "1.0.0",
+  "description": "A tool to configure domain and IP for local development",
+  "main": "index.js",
+  "bin": {
+    "ip-anchor": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kodo Yousif",
+  "license": "ISC",
+  "dependencies": {
+    "sudo-prompt": "^9.2.1"
+  }
+}
